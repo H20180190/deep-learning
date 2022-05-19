@@ -3,4 +3,6 @@ for plant-diseases
 
 
 DATASET
-https://drive.google.com/file/d/1nlzcF2ADMIrBAHmybeDa6I6cyD5n6b5H/view?usp=sharing
+git clone https://github.com/spMohanty/PlantVillage-Dataset
+cd PlantVillage-Dataset
+
